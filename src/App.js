@@ -61,7 +61,7 @@ function App() {
         </ParallaxLayer>
 
         <ParallaxLayer offset={3} speed={-0.2}>
-          <img id="nasaImg" src={data.hdurl} alt="Astronomy Picture of the Day" />
+          <img id="nasaImg" src={data.hdurl} alt="Astronomy View of the Day" />
         </ParallaxLayer>
 
         <ParallaxLayer offset={5} factor={1.5} style={{
